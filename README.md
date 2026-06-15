@@ -1,3 +1,4 @@
+```
 Data Source (CSV Files)
         ↓
 Amazon S3 (Raw Data Lake)
@@ -13,3 +14,4 @@ Amazon S3 (Parquet Transformed Layer)
 AWS Glue Crawler / Data Catalog
         ↓
 Amazon Athena (SQL Analytics)
+```
