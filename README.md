@@ -1,4 +1,4 @@
-# End-to-End AWS Data Engineering Pipeline
+# Instacart End-to-End Data Engineering Pipeline on AWS
 
 ## Overview 
 
