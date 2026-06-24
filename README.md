@@ -1,3 +1,5 @@
+# End-to-End AWS Data Engineering Pipeline
+
 ## Overview 
 
 This project demonstrates an end-to-end AWS Data Engineering pipeline built using the Instacart dataset. The pipeline automates data ingestion, transformation, cataloging, and analytics using AWS cloud services.
