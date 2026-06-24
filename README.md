@@ -24,6 +24,7 @@ The project highlights key data engineering concepts such as serverless ETL proc
 This project uses the **Instacart Market Basket Analysis** dataset, which contains anonymized customer orders, products, aisles, and department information for analyzing purchasing behavior.
 
 * **Dataset Source:** https://www.kaggle.com/datasets/psparks/instacart-market-basket-analysis
+  
 **Note: The complete dataset is not included in this repository due to its large size.**
 
 ## Project Workflow
