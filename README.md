@@ -8,11 +8,15 @@ The project highlights key data engineering concepts such as serverless ETL proc
 
 ## Services Used 
 
-**Amazon S3 –** Used as the data lake to store raw Instacart CSV files and transformed Parquet datasets throughout the pipeline.
-**AWS Lambda –** Configured event-driven triggers to automatically initiate ETL workflows when new data files are uploaded to S3.
-**AWS Glue ETL Jobs –** Built and executed PySpark-based ETL jobs to clean, transform, and convert raw CSV data into optimized Parquet format.
-**AWS Glue Data Catalog –** Created and managed metadata tables to organize datasets and make them accessible for querying and analytics.
-**Amazon Athena –** Queried transformed data directly from S3 using SQL to perform serverless analytics and generate business insights.
+* **Amazon S3 –** Used as the data lake to store raw Instacart CSV files and transformed Parquet datasets throughout the pipeline.
+
+* **AWS Lambda –** Configured event-driven triggers to automatically initiate ETL workflows when new data files are uploaded to S3.
+
+* **AWS Glue ETL Jobs –** Built and executed PySpark-based ETL jobs to clean, transform, and convert raw CSV data into optimized Parquet format.
+
+* **AWS Glue Data Catalog –** Created and managed metadata tables to organize datasets and make them accessible for querying and analytics.
+
+* **Amazon Athena –** Queried transformed data directly from S3 using SQL to perform serverless analytics and generate business insights.
 
 ## Project Workflow
 ```
